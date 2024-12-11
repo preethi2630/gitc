@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 1st line
 2nd line
+=======
+first line in master
+second line in master
+>>>>>>> 81e723de069ae8893af5e3e8189defe7819fea26
