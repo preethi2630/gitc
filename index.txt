@@ -1,0 +1,2 @@
+first line in index
+second line in index
