@@ -1,0 +1,72 @@
+[33mcommit 4147478fda0565dcefdbd32cd73bff0e1ad1ea9a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: f87d571 27f261c
+Author: preethi2630 <preethin.23.becs@acharya.ac.in>
+Date:   Fri Nov 15 11:39:58 2024 +0530
+
+    Added few lines in b1.txt
+
+[33mcommit 27f261cba4e3a81954c4c197c1ae783a39b2669c[m[33m ([m[1;32mfeature[m[33m)[m
+Author: preethi2630 <preethin.23.becs@acharya.ac.in>
+Date:   Fri Nov 15 11:35:00 2024 +0530
+
+    new commit
+
+[33mcommit 159b3693ad90afe595dfbdf66ca9550212c773bf[m
+Author: preethi2630 <preethin.23.becs@acharya.ac.in>
+Date:   Thu Nov 14 10:46:26 2024 +0530
+
+    f10 added
+
+[33mcommit 92ea539ca90447f33b0a5ea0800fc41c1796ae4e[m
+Author: preethi2630 <preethin.23.becs@acharya.ac.in>
+Date:   Thu Oct 24 10:45:47 2024 +0530
+
+    Add f1 to fix the error
+
+[33mcommit f87d5714bdcc706931792f387ca1740a02ae07cd[m
+Author: preethi2630 <preethin.23.becs@acharya.ac.in>
+Date:   Thu Nov 14 10:45:20 2024 +0530
+
+    f2 added
+
+[33mcommit aa8309afead2df770867e40ee9a112401ddb36be[m
+Author: preethi2630 <preethin.23.becs@acharya.ac.in>
+Date:   Thu Nov 14 10:44:58 2024 +0530
+
+    f1 added
+
+[33mcommit cba21e9a5a527778f1ffce0e389f8d73e5c51d58[m
+Author: preethi2630 <preethin.23.becs@acharya.ac.in>
+Date:   Thu Oct 24 10:51:19 2024 +0530
+
+    Update b1.txt and add f2
+
+[33mcommit 515a4fcd33b55bc813fe16d4bc342c41081c8ada[m
+Author: preethi2630 <preethin.23.becs@acharya.ac.in>
+Date:   Thu Oct 24 10:50:51 2024 +0530
+
+    Add new file f2
+
+[33mcommit 1c80b4a5cf087d18d16c7c3b671de01fd173730b[m[33m ([m[1;32mfeature_branch[m[33m)[m
+Author: preethi2630 <preethin.23.becs@acharya.ac.in>
+Date:   Fri Oct 4 12:16:45 2024 +0530
+
+    added something
+
+[33mcommit f8c2be9b45ac6d10ef84d93362d0e5ca5dfb95e7[m
+Author: preethi2630 <preethin.23.becs@acharya.ac.in>
+Date:   Fri Oct 4 11:40:10 2024 +0530
+
+    new file added
+
+[33mcommit 2ec849e269d04b763a455d8c748d4df24a581fb4[m
+Author: preethi2630 <preethin.23.becs@acharya.ac.in>
+Date:   Fri Sep 27 10:50:07 2024 +0530
+
+    initial commit
+
+[33mcommit d8b297da52beda01a7a1f8e6f052eca576098aaa[m[33m ([m[1;32mtmp[m[33m)[m
+Author: preethi2630 <preethin.23.becs@acharya.ac.in>
+Date:   Fri Sep 6 11:50:26 2024 +0530
+
+    File upload
