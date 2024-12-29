@@ -1,2 +1,6 @@
+first line in index
+second line in index
+third line in index
 first line
 second line
+
